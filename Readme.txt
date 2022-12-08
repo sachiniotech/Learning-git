@@ -1,1 +1,1 @@
-This is version 1 of my first git repo
+This is version 2 of my first git repo
